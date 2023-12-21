@@ -3,6 +3,7 @@
 
 사이트 : https://port-0-login-lecture-cn1vmr2clp63xg3f.sel5.cloudtype.app/login
 
-![image](https://github.com/ckswo00/login-lecture/assets/123151441/f52988a9-68b7-44af-98b1-aff1e02fcee0)
+<img src = "https://github.com/ckswo00/login-lecture/assets/123151441/6d3a9b12-0cd3-41df-9e64-1462ee7ad50f" width="30%">
 
+<img src = "https://github.com/ckswo00/login-lecture/assets/123151441/113b902f-61ee-4022-92da-6fce5ce30d2f" width="37%">
 
